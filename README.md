@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react, tailwind**
 
-- 👨‍💻 All of my projects are available at [davidegaravaglia.it](davidegaravaglia.it)
+- 👨‍💻 All of my projects are available at [davidegaravaglia.it](https://www.davidegaravaglia.it)
 
 - 📫 How to reach me **garavagliad2@gmail.com**
 
