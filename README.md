@@ -1,1 +1,1 @@
-![githubReadMeFigo](https://github.com/user-attachments/assets/7dfc2da0-01ea-4f90-beab-be0e819b5741)
+![githubReadMeFigo](https://github.com/user-attachments/assets/803fda4f-d941-4f07-aa1a-d6a7e5943cf3)
