@@ -16,9 +16,9 @@
 - TypeScript (React)
 - Python (for fast backend)
 
-![BeastOfShadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeastOfShadow&show_icons=true&theme=radical)
+![BeastOfShadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=da4do0&show_icons=true&theme=radical)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeastOfShadow&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=da4do0&layout=compact&theme=radical)
 <!--
 **SimoneNegro/SimoneNegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
