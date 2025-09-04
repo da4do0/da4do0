@@ -1,10 +1,10 @@
 ![githubReadMeFigo](https://github.com/user-attachments/assets/803fda4f-d941-4f07-aa1a-d6a7e5943cf3)
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=BeastOfShadow&repo=github-visitors-badge&countColor=%237B1E7A)
-# Hi there 👋
+# Buongiorno 🤌
 
 
-- 🌱 I’m currently learning AI to make a happy future.
+<!--- 🌱 I’m currently learning AI to make a happy future.-->
 <!-- - 📫 How to reach me: <a href="mailto:simone.negro.2002@gmail.com" target="_blank">simone.negro.2002@gmail.com</a>-->
 
 ## Languages
